@@ -2,4 +2,22 @@
 ## Neural Networks and Deep Learning Laboratory
 
 ### Manual:
-1. Write a program to demonstrate the working of different activation functions like sigmod, tanh ReLU and Softmax to train a Neural Network.
+1. Write a program to demonstrate the working of different activation functions like sigmoid, tanh ReLU and Softmax to train a Neural Network.
+
+2. 
+    a. Design a single unit perceptron for classification og linearly separable binary dataset without using pre-defined models. Use the perceptron from sklearn. \n
+    b. Identify the problems in single unit perceptron using AND, OR, XOR data and analyze the results.
+
+3. Build a deep feed-forward Artificial Neural Network by implementig the back propagation algorithm and test the sme using appropriate datasets. Use the number of hidden layers greater than or equal to 4.
+
+4. Design and implement a CNN model with 4+ layers of convolution to classify multicategory image datasets. Use the concept of regularization and dropout while designing CNN model. Use the fashion MNIST datset. Record the training accuracy corresponding to the following architecture: \n
+    a. base model \n
+    a. Model with L1 regularization \n
+    c. Model with L2 regularization \n
+    d. Model with dropout \n
+
+5. Design and implement an image classification model to classify a dataset of images using deep feed-forward neural network. Record the accuracy corresponding to the number of epochs. Use MNIST dataset.
+
+6. Implement Bi-directional LSTM for Sentiment analysis on movie reviews. 
+
+7. Implement the standard VGG16 and 19 CNN architecture model to classify multicategory image dataset and check the accuracy.
