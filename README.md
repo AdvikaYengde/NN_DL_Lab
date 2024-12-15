@@ -8,7 +8,7 @@
     a. Design a single unit perceptron for classification og linearly separable binary dataset without using pre-defined models. Use the perceptron from sklearn. <br />
     b. Identify the problems in single unit perceptron using AND, OR, XOR data and analyze the results.
 
-3. Build a deep feed-forward Artificial Neural Network by implementig the back propagation algorithm and test the sme using appropriate datasets. Use the number of hidden layers greater than or equal to 4.
+3. Build a deep feed-forward Artificial Neural Network by implementing the back propagation algorithm and test the same using appropriate datasets. Use the number of hidden layers greater than or equal to 4.
 
 4. Design and implement a CNN model with 4+ layers of convolution to classify multicategory image datasets. Use the concept of regularization and dropout while designing CNN model. Use the fashion MNIST datset. Record the training accuracy corresponding to the following architecture:<br />
     a. base model <br />
